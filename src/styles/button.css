@@ -1,0 +1,99 @@
+.buttonBg {
+  background: linear-gradient(90deg, #ff3636 8.33%, #9b3838 91.67%);
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.04),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+}
+
+.footerButton {
+  background: linear-gradient(90deg, #ff3636 8.33%, #9b3838 91.67%);
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.04),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: solid rgb(46, 50, 52);
+  border-width: 5px;
+}
+
+.sButtonBg {
+  background-color: linear-gradient(
+      95.04deg,
+      rgba(84, 84, 84, 0.12) 3.11%,
+      rgba(0, 0, 0, 0.12) 94.96%
+    ),
+    #212426;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: -8px -8px 12px rgba(255, 255, 255, 0.04),
+    8px 8px 12px rgba(0, 0, 0, 0.16);
+}
+
+.connectButtonBG {
+  background: linear-gradient(
+      95.04deg,
+      rgba(0, 0, 0, 0) 3.11%,
+      rgba(0, 0, 0, 0.12) 94.96%
+    ),
+    #252728;
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.03),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+  border-radius: 20px;
+}
+.separatorLine {
+  background-color: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.sectionTitleLine {
+  background-color: rgba(255, 255, 255, 0.02);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.borderCs {
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+}
+
+.provideDK {
+  background: linear-gradient(
+      95.04deg,
+      rgba(0, 0, 0, 0) 3.11%,
+      rgba(0, 0, 0, 0.12) 94.96%
+    ),
+    #252728;
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.03),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+  border-radius: 20px;
+}
+
+.provideRD {
+  box-sizing: border-box;
+  background: linear-gradient(90deg, #ff3636 8.33%, #9b3838 91.67%);
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.04),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+  border-radius: 20px;
+  border: solid rgb(46, 50, 52);
+  border-width: 5px;
+}
+
+.AssettoBorder {
+  box-sizing: border-box;
+  background: none;
+
+  border-radius: 20px;
+}
+
+.GameServer {
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.03),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+  border-radius: 20px;
+}
+
+.GameServerHover {
+  filter: drop-shadow(-6px -6px 12px rgba(255, 255, 255, 0.04))
+    drop-shadow(6px 6px 12px rgba(0, 0, 0, 0.16));
+  border-radius: 20px;
+}
+
+.fade-in {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}

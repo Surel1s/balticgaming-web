@@ -1,0 +1,10 @@
+.divStyle {
+  background: linear-gradient(
+      95.04deg,
+      rgba(0, 0, 0, 0) 3.11%,
+      rgba(0, 0, 0, 0.12) 94.96%
+    ),
+    #252728;
+  box-shadow: -6px -6px 12px rgba(255, 255, 255, 0.03),
+    6px 6px 12px rgba(0, 0, 0, 0.16);
+}
